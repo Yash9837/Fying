@@ -8,12 +8,8 @@ A sophisticated ARKit-based iOS application that allows users to scan rooms, pla
 <img width="334" height="692" alt="Screenshot 2025-08-06 at 01 58 31" src="https://github.com/user-attachments/assets/86613750-2d59-4e85-9123-f13d74ec3828" />
 
 
-![WhatsApp Image 2025-08-06 at 01 51 09 (1)](https://github.com/user-attachments/assets/598f958d-81d5-485e-b41c-d925fd54707d)
-![WhatsApp Image 2025-08-06 at 01 51 09 (2)](https://github.com/user-attachments/assets/79372833-dd5b-4a16-a465-a56f39c54c77)
-
-
-
-
+<img width="333" height="712" alt="Screenshot 2025-08-06 at 01 59 12" src="https://github.com/user-attachments/assets/a1fe15fe-92be-4eb3-9412-5f35490544cd" />
+<img width="335" height="711" alt="Screenshot 2025-08-06 at 01 59 25" src="https://github.com/user-attachments/assets/54290c3d-7e68-4376-9355-36cba3f01799" />
 
 
 ## Features
