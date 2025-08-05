@@ -1,4 +1,4 @@
-# fying - AR Interior Design Application
+# Fying - AR Interior Design Application
 
 A sophisticated ARKit-based iOS application that allows users to scan rooms, place virtual furniture, and visualize interior designs with realistic lighting and physics.
 
